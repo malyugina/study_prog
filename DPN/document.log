@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  2 MAR 2016 15:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  14 APR 2016 12:41
 entering extended mode
 **document.tex
 (C:\Users\groza\study\DPN\document.tex
@@ -312,34 +312,62 @@ Overfull \hbox (4.22394pt too wide) in paragraph at lines 479--481
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
 [13
 
-] (C:\Users\groza\study\DPN\document.aux) ) 
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+[14
+
+] [15] [16]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+[17
+
+] [18]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
+[19
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
+[20
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
+[21
+
+] [22]
+Overfull \hbox (11.0411pt too wide) in paragraph at lines 972--975
+[]\T2A/cmr/m/n/10 выбираем но-вые точ-ки. де-ла-ем n ите-ра-ций. мож-но всу-нут
+ь лю-бой неробаст-
+ []
+
+[23] (C:\Users\groza\study\DPN\document.aux) ) 
 Here is how much of TeX's memory you used:
- 4121 strings out of 493921
- 51259 string characters out of 3144875
+ 4123 strings out of 493921
+ 51282 string characters out of 3144875
  107196 words of memory out of 3000000
- 7350 multiletter control sequences out of 15000+200000
- 17276 words of font info for 49 fonts, out of 3000000 for 9000
+ 7351 multiletter control sequences out of 15000+200000
+ 18095 words of font info for 50 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,26p,484b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\groza\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\groza\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2488.pk> <C:\Users\groza\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\g
-roza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:
-\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1000
-.pk> <C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\d
-pi600\larm1200.pk> <C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
-lh-t2a\dpi600\larm1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y7.pfb>
-Output written on document.pdf (15 pages, 174171 bytes).
+ <C:\Users\groza\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\groza\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\groza\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2488.pk> <C:\User
+s\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> 
+<C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1
+000.pk> <C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
+00\labx1000.pk> <C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknow
+n\unknown\dpi600\larm1200.pk> <C:\Users\groza\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\larm1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb>
+Output written on document.pdf (25 pages, 232357 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
+ 418 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
