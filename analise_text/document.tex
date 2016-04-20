@@ -1,0 +1,38 @@
+\documentclass[]{report}
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float}
+\usepackage[pdftex]{graphicx} 
+\graphicspath{{images/}}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english, russian]{babel}
+
+% Title Page
+\title{Первое задание по курсу NLP}
+\author{Малюгина Ольга}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+	В данном задании необходимо исслодовать и применить на практике следующие умения и методы:
+	\begin{itemize}
+		\item предобработка текстов;
+		\item использование словарей;
+		\item лемматизация;
+		\item применение N-грамм, коллокациий;
+		\item применение матричных разложений;
+		\item использование дистрибуционной семантики;
+		\item взвешивание признаков
+		\item применение классификаторов;
+		\item построение ансамблей различных классификаторов и методов;		
+	\end{itemize}
+	Все операции производились над четырмя массивами данных.
+\end{abstract}
+
+\section{polarity dataset}
+В датасете представлены 1000 позитивных и 1000 негативных рецензий.Необходимо постоить классификатор, который по рецензии определяет ее настроение.
+\subsection{предобработка текстов}
+Вначале удаляем все лишние символы (запятые, скобки, точки и т.д.).
+
+\end{document}          
